@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text Formatting Example</title>
+</head>
+<body>
+    <b>My name is Shubhekshya</b><br>
+    <i>My name is Shubhekshya</i><br>
+    <tt>My name is Shubhekshya</tt><br>
+    <u>My name is Shubhekshya</u><br>
+    Subscripts: f<sub>0</sub> + f<sub>1</sub><br>
+    Superscripts: x<sup>2</sup> + y<sup>2</sup><br>
+    <small>My name is Shubhekshya</small><br>
+    <big>My name is Shubhekshya</big><br>
+    <strike>My name is Shubhekshya</strike><br>
+    <b><i>My name is Shubhekshya</i></b><br>
+    <big><tt>My name is Shubhekshya</tt></big><br>
+    <small><i>My name is Shubhekshya</i></small><br>
+    <font color="gray">My name is Shubhekshya</font><br>
+    <del>My name is Shubhekshya</del><br>
+    <ins>My name is Shubhekshya</ins><br>
+</body>
+</html>
